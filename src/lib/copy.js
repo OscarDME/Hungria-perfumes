@@ -3,16 +3,16 @@ export const copy = {
   checkoutUrl: "https://www.oriopay.app/p/natur-kozmetikumok",
 
   metadata: {
-    title: "Natúrkozmetikai Kézikönyv | PerfuMaria das Ervas",
+    title: "Natúrkozmetikai Kézikönyv",
     description:
-      "80 recept 100%-ban természetes kozmetikumok otthoni elkészítéséhez. Kipróbált és bevált formulák saját használatra vagy vállalkozás indításához.",
+      "80 recept 100%-ban természetes kozmetikumok otthoni elkészítéséhez. Kipróbált és bevált formulák a biztonságos bőrápoláshoz és a mérgező vegyszerek elkerüléséhez.",
   },
 
   hero: {
     headlineLine1: "80 recept",
-    headlineHighlight: "NATÚRKOZMETIKUMOKHOZ",
+    headlineHighlight: "NATÚR KOZMETIKUMOT",
     subheadline:
-      "Férj hozzá a 100%-ban természetes kozmetikumok titkos receptjeihez, amelyeket otthonod kényelmében is elkészíthetsz! Kipróbált és bevált formulák saját használatra vagy akár saját vállalkozás indításához.",
+      "Férj hozzá a 100%-ban természetes kozmetikumok titkos receptjeihez, amelyeket otthonod kényelmében is elkészíthetsz! Kipróbált és bevált formulák családod egészségének védelmére, hogy végre megszabadulhass a vegyszerekkel teli bolti termékektől.",
     cta: "AZONNALI HOZZÁFÉRÉST KÉREK!",
     imageAlt: "Natúrkozmetikai Kézikönyv",
     timerLabels: {
@@ -24,7 +24,7 @@ export const copy = {
   },
 
   story: {
-    text: "Most egy olyan lényegretörő, felesleges túlbonyolításoktól mentes, mégis rendkívül megbízható gyakorlati útmutatót adok a kezedbe, amellyel otthon is elkészítheted a saját, 100%-ban természetes kozmetikumaidat. Anélkül, hogy egy vagyont költenél, és anélkül, hogy ezerféle összetevőre lenne szükséged – ráadásul használhatod őket te magad, elajándékozhatod a szeretteidnek, vagy akár értékesítheted is, ha új bevételi forrást szeretnél teremteni!",
+    text: "Most egy olyan lényegretörő, felesleges túlbonyolításoktól mentes, mégis rendkívül megbízható gyakorlati útmutatót adok a kezedbe, amellyel otthon is elkészítheted a saját, 100%-ban természetes kozmetikumaidat. Anélkül, hogy egy vagyont költenél, és anélkül, hogy ezerféle nehezen beszerezhető összetevőre lenne szükséged – készítheted őket magadnak, különleges ajándékként szeretteidnek, és élvezhetitek a 100%-ig biztonságos és egészséges ápolást!",
     imageAlt: "Natúrkozmetikumok",
   },
 
@@ -121,31 +121,31 @@ export const copy = {
   },
 
   whatYouGet: {
-    headline: "MIT TALÁLSZ EBBEN A TÖKÉLETES KÉZIKÖNYVBEN?",
+    headline: "MIT TALÁLSZ EBBEN A KIVÉTELES KÉZIKÖNYVBEN?",
     cta: "KÉREM A KÉZIKÖNYVET MOST!",
     imageAlt: "Mit találsz a kézikönyvben",
     items: [
-      "Több mint 80 tesztelt és bevált recept – beleértve a krémes bőrradírozó szappant, a szárazolajat arcra, a testpermetet, a hővédő hajspray-t és még sok más új formulát.",
-      "Alapok krémekhez, gélekhez, samponokhoz és szappanokhoz – tanuld meg, hogyan készíts biztonságos és személyre szabott formulákat minden bőr- és hajtípusra.",
-      "Teljes, lépésről lépésre haladó útmutató kezdőknek és haladóknak – sajátíts el mindent az alapkoncepcióktól a legösszetettebb technikákig.",
-      "Összetevők katalógusa – fedezd fel a különböző természetes alapanyagok jótékony hatásait, hogy rendkívül hatékony kozmetikumokat készíthess.",
-      "Fitoterápia a kozmetológiában – hogyan használd a gyógynövényeket a kozmetikumaid hatásának fokozására.",
-      "A természetes formulázás titkai – pH-szabályozás, tartósítás, alapanyagok kiválasztása és hatékony kombinációk.",
-      "Tippek otthoni és professzionális gyártáshoz – hozd létre saját natúrkozmetikai műhelyedet, és tökéletesítsd a technikádat.",
-      "Fenntarthatóság és környezetvédelem – tanuld meg, hogyan készíts biológiailag lebomló és környezetbarát kozmetikumokat.",
+      "Több mint 80 tesztelt és bevált recept – beleértve a krémes bőrradírozó szappant, a szárazolajat arcra, a testpermetet, a hővédő hajspray-t és rengeteg új, innovatív formulát.",
+      "Alapok krémekhez, gélekhez, samponokhoz és szappanokhoz – tanuld meg, hogyan készíts 100%-ig biztonságos és személyre szabott kozmetikumokat minden bőr- és hajtípusra.",
+      "Teljes, lépésről lépésre haladó útmutató kezdőknek és haladóknak – sajátíts el mindent az alapkoncepcióktól a legösszetettebb kozmetikai technikákig.",
+      "Összetevők katalógusa – fedezd fel a különböző természetes alapanyagok jótékony hatásait, hogy rendkívül hatékony és tiszta receptúrákat készíthess.",
+      "Fitoterápia a kozmetológiában – hogyan használd a gyógynövényeket a kozmetikumaid hatásának maximális fokozására.",
+      "A természetes formulázás titkai – pH-szabályozás, természetes tartósítás, alapanyagok kiválasztása és a leghatékonyabb szinergiák.",
+      "Tippek a tökéletes otthoni gyártáshoz – változtasd a konyhádat biztonságos hellyé a tiszta kozmetikumok készítéséhez, és tökéletesítsd a technikádat.",
+      "Fenntarthatóság és környezetvédelem – tanuld meg, hogyan készíts teljesen biológiailag lebomló és bolygóbarát kozmetikumokat.",
     ],
   },
 
   testimonials: {
-    headline: "NÉZD MEG, MIT MONDANAK MÁSOK A NATÚRKOZMETIKAI KÉZIKÖNYVRŐL:",
-    cta: "AZONNALI HOZZÁFÉRÉST KÉREK!",
+    headline: "NÉZD MEG, MIT MONDANAK AZOK A LÁNYOK, AKIK MÁR HASZNÁLJÁK A KÉZIKÖNYVET:",
+    cta: "CSATLAKOZOM HOZZÁJUK!",
     cards: [
       {
         name: "Mária K.",
         initials: "MK",
         color: "#16a34a",
         stars: 5,
-        text: "Imádom ezt a kézikönyvet! Már elkészítettem a nyugtató testápolót és az arcszappant, hihetetlenül jók lettek. Sokkal jobbak, mint az ipari termékek, amiket korábban használtam. Melegen ajánlom!",
+        text: "Imádom ezt a kézikönyvet! Már elkészítettem a nyugtató testápolót és az arcszappant, hihetetlenül jók lettek. Mérföldekkel jobbak, mint az ipari termékek, amiket korábban használtam. Mindenkinek melegen ajánlom!",
         source: "WhatsApp",
       },
       {
@@ -153,7 +153,7 @@ export const copy = {
         initials: "IN",
         color: "#0f766e",
         stars: 5,
-        text: "Lányok, ez egy csodálatos kézikönyv! A receptek nagyon részletesek és könnyen követhetők. Már el is adtam néhány terméket a barátnőimnek, és ők is odavannak értük. Minden fillért megért!",
+        text: "Lányok, ez egy fantasztikus kézikönyv! A receptek nagyon részletesek és könnyen elkészíthetők. Csináltam néhány terméket a barátnőimnek ajándékba, és teljesen odavannak értük. Minden fillért megért!",
         source: "WhatsApp",
       },
       {
@@ -161,7 +161,7 @@ export const copy = {
         initials: "SZR",
         color: "#7c3aed",
         stars: 5,
-        text: "Féltem megvenni, de határozottan megérte! Az alapanyag-katalógus rengeteget segített az összetevők megértésében. Már 6 különböző receptet is megcsináltam, és mindegyik tökéletes lett.",
+        text: "Kicsit hezitáltam a vásárlás előtt, de határozottan megérte! Az alapanyag-katalógus rengeteget segített az összetevők megértésében. Már 6 különböző receptet is megcsináltam, és mindegyik tökéletes lett.",
         source: "WhatsApp",
       },
       {
@@ -169,83 +169,83 @@ export const copy = {
         initials: "DV",
         color: "#b45309",
         stars: 5,
-        text: "Micsoda hihetetlen befektetés! A kézikönyv segítségével megtanultam szilárd sampont és balzsamot készíteni. A hajam sokkal egészségesebb, és minden hónapban egy csomó pénzt spórolok. Köszönöm!",
+        text: "Micsoda remek befektetés! A kézikönyv segítségével végre megtanultam szilárd sampont és balzsamot készíteni. A hajam valósággal újjáéledt, sokkal egészségesebb, és minden hónapban rengeteget spórolok a kozmetikumokon. Köszönöm!",
         source: "WhatsApp",
       },
     ],
   },
 
   autonomyIntro: {
-    text1: "A Natúrkozmetikai Kézikönyv segítségével megtanulod a nulláról elkészíteni a saját kozmetikumaidat.",
-    text2: "Lépésről lépésre megmutatja, hogyan válaszd ki a természetes összetevőket, hogyan igazítsd a formulákat a különböző bőr- és hajtípusokhoz, és hogyan szabd személyre a termékeket a saját igényeid szerint.",
-    text3: "Ezenkívül magabiztosságot és önállóságot nyersz a formulázásban: tesztelheted és módosíthatod a recepteket, így egyedi, saját arculattal rendelkező termékeket hozhatsz létre. A természetes alapanyagok részletes katalógusának köszönhetően megismered a legjobb összetevőket, és megtanulod az ideális kombinációt minden egyes kozmetikai termékhez.",
-    cta: "KÉREM A KÉZIKÖNYVET MOST!",
-    imageAlt: "Önállóság a natúrkozmetikában",
+    text1: "A Natúrkozmetikai Kézikönyv segítségével megtanulod teljesen a nulláról elkészíteni a saját termékeidet.",
+    text2: "Lépésről lépésre megmutatja, hogyan válaszd ki tudatosan a természetes összetevőket, hogyan igazítsd a formulákat a különböző bőrtípusokhoz vagy hajporozitáshoz, és hogyan szabd személyre a termékeket, hogy tökéletesen megfeleljenek a te igényeidnek.",
+    text3: "Magabiztosságot és teljes függetlenséget nyersz a receptúrák megalkotásában. Tesztelheted és finomíthatod a recepteket, egyedi, saját karakterű kozmetikumokat hozva létre. A természetes alapanyagok rendkívül részletes katalógusának köszönhetően megismered a legjobb összetevőket és felfedezed az ideális kombinációkat minden egyes terméktípushoz.",
+    cta: "KÉREM A KÉZIKÖNYVET!",
+    imageAlt: "Önállóság a natúrkozmetikumok készítésében",
   },
 
   benefitsList: {
-    headline: "Függetlenség és kreativitás a natúrkozmetikában!",
+    headline: "Függetlenség és kreativitás a természetes bőrápolás világában!",
     cta: "AZONNALI HOZZÁFÉRÉST KÉREK!",
     items: [
       {
         bold: "Tanulj meg készíteni",
-        rest: " krémeket, szérumokat, samponokat, szappanokat és még sok mást.",
+        rest: " krémeket, szérumokat, samponokat, szappanokat és még sok más ápoló terméket.",
       },
       {
-        bold: "Fedezd fel, hogyan válaszd ki",
-        rest: " a megfelelő összetevőket minden igényhez.",
+        bold: "Tanuld meg hibátlanul kiválasztani",
+        rest: " a megfelelő összetevőket a bőr és a haj egyedi igényeihez.",
       },
       {
-        bold: "Válj függetlenné az ipari kozmetikumoktól, és",
-        rest: " fejlessz ki személyre szabott formulákat.",
+        bold: "Szabadulj meg a bolti vegyszerektől, és",
+        rest: " fejlessz ki 100%-ban személyre szabott, természetes formulákat.",
       },
       {
         bold: "Mélyedj el a kozmetológiában alkalmazott fitoterápiában,",
-        rest: " kihasználva a gyógynövények terápiás tulajdonságait.",
+        rest: " marokszámra merítve a gyógynövények és kivonatok gyógyító tulajdonságaiból.",
       },
       {
-        bold: "Csökkentsd a költségeidet",
-        rest: " azzal, hogy saját kozmetikumokat készítesz, anélkül, hogy kompromisszumot kötnél a minőségben.",
+        bold: "Jelentősen csökkentsd a kiadásaidat",
+        rest: " azzal, hogy saját kozmetikumokat készítesz anélkül, hogy a minőség rovására menne.",
       },
       {
-        bold: "Férj hozzá professzionális formulákhoz",
-        rest: " és tanuld meg biztonságosan elkészíteni a legjobb termékeket.",
+        bold: "Férj hozzá professzionális receptúrákhoz",
+        rest: " és tanuld meg biztonságosan elkészíteni a legmagasabb minőségű termékeket.",
       },
       {
-        bold: "Tűnj ki a természetes szépségápolás piacán,",
-        rest: " amely egyre csak növekszik, és értékeli a fenntartható termékeket.",
+        bold: "Biztosítsd a legjobb ápolást a bőrödnek,",
+        rest: " pontosan tudva, milyen tiszta összetevőket használsz.",
       },
       {
-        bold: "Tanuld meg, hogyan alakíts ki egy otthoni kozmetikai műhelyt,",
-        rest: " praktikus tippekkel a munkaterület megszervezéséhez.",
+        bold: "Védd meg családod egészségét",
+        rest: " olyan termékekkel, amelyek mentesek a káros tartósítószerektől és mesterséges színezékektől.",
       },
     ],
   },
 
   economy: {
-    headline: "Spórolás és üzleti lehetőség a természetes piacon!",
-    text1: "A saját natúrkozmetikumok készítése nagyszerű lehetőség mind a megtakarításra, mind pedig a vállalkozásra. A Natúrkozmetikai Kézikönyvvel megtanulhatsz kiváló minőségű kozmetikumokat előállítani alacsony áron, elkerülve a hagyományos termékek túlzott költségeit, és megfizethető, hatékony természetes összetevőkbe fektetve.",
-    text2: "Ha saját vállalkozást szeretnél indítani, ez egy értékes útmutató egy fenntartható és jövedelmező üzlet létrehozásához. Az exkluzív formulákkal és a tartósítással, csomagolással, valamint a piaccal kapcsolatos gyakorlati tanácsokkal megalkothatod a saját natúrkozmetikai márkádat, olyan kézműves termékeket kínálva, amelyek illeszkednek a tudatos és környezetbarát fogyasztás trendjébe.",
-    cta: "KÉREM A KÉZIKÖNYVET MOST!",
-    imageAlt: "Üzlet a természetes piacon",
+    headline: "Spórolás és egészséges ápolás egyetlen gramm vegyszer nélkül!",
+    text1: "A saját natúrkozmetikumok készítése a legjobb módja a bőr védelmének, miközben hatalmas összegeket takaríthatsz meg. A Natúrkozmetikai Kézikönyvvel megtudhatod, hogyan állíthatsz elő prémium minőségű termékeket a bolti megfelelőik árának töredékéért. Így elkerülheted a túlárazott, vegyszerekkel teli, kereskedelmi forgalomban kapható kozmetikumokat, és megfizethető, tiszta és rendkívül hatékony természetes alapanyagokba fektethetsz.",
+    text2: "Ez egy felbecsülhetetlen értékű kézikönyv az egészségesebb életmódra való áttéréshez. Az exkluzív receptúráknak köszönhetően visszanyered a teljes kontrollt afölött, hogy mit kensz a testedre. Élvezheted a kézzel készített termékeket, amelyek 100%-ig biztonságosak, ökológiaiak, és kíméletesek mind a bőröddel, mind a természettel szemben.",
+    cta: "ELKEZDEM A KÉSZÍTÉST!",
+    imageAlt: "Egészséges ápolás",
   },
 
   finalCta: {
     urgencyLabel: "UTOLSÓ NAP A RENDELÉSRE",
-    urgencySub: "akciós áron!",
+    urgencySub: "akciós promóciós áron!",
     urgencyText:
-      "Ez az utolsó esélyed, hogy kihasználd különleges ajánlatunkat, és csatlakozz több ezer elégedett tanulónkhoz!",
+      "Ez az abszolút utolsó esélyed, hogy kihasználd ezt a kivételes ajánlatot, és csatlakozz több ezer elragadtatott tanulónkhoz!",
     offerPrice: "2990 Ft",
-    button: "KÉREM A HOZZÁFÉRÉST MOST!",
+    button: "AZONNAL HOZZÁFÉREK!",
     productTitle: "Natúrkozmetikai Kézikönyv!",
     imageAlt: "Natúrkozmetikai Kézikönyv",
     bundleList: [
       "80 natúrkozmetikai recept",
-      "Teljes oktatási segédanyag",
-      "Alapanyagok oktatókatalógusa",
-      "Tanulói közösség",
-      "Kiemelt ügyfélszolgálat kérdések esetén",
-      "Beszállítói lista",
+      "Átfogó, lépésről lépésre haladó útmutató",
+      "Oktató jellegű alapanyag-lexikon",
+      "Hozzáférés a zárt közösséghez",
+      "Szakértői támogatás minden felmerülő kérdésben",
+      "Ellenőrzött és megbízható beszállítói lista",
     ],
     timerLabels: {
       days: "Nap",
@@ -256,8 +256,6 @@ export const copy = {
   },
 
   footer: {
-    tagline: "Fedezd fel, hogyan készítsd el a tökéletes natúrkozmetikumokat!",
-    linkLabel: "Teljes Natúrkozmetikai Tanfolyam",
-    linkHref: "https://www.perfumariadaservas.shop",
+    tagline: "Fedezd fel velünk, hogyan készíts tökéletes natúrkozmetikumokat!",
   },
 };
