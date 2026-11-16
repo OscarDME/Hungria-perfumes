@@ -235,7 +235,7 @@ export const copy = {
     urgencySub: "akciós promóciós áron!",
     urgencyText:
       "Ez az abszolút utolsó esélyed, hogy kihasználd ezt a kivételes ajánlatot, és csatlakozz több ezer elragadtatott tanulónkhoz!",
-    offerPrice: "2990 Ft",
+    offerPrice: "3490 Ft",
     button: "AZONNAL HOZZÁFÉREK!",
     productTitle: "Natúrkozmetikai Kézikönyv!",
     imageAlt: "Natúrkozmetikai Kézikönyv",
